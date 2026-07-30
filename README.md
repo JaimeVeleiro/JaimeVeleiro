@@ -9,7 +9,7 @@
 
 ---
 
-Since I was a kid I've been fascinated by technology from video games to computer assembly, and now building web applications. I'm the **Lead Organizer** of [GDG on Campus Málaga](https://gdg.community.dev/gdg-on-campus-universidad-de-malaga-malaga-spain/), where we bring tech events to anyone willing to learn.
+Since I was a kid I've been fascinated by technology from video games to computer assembly, and now building web applications. I'm the **Lead Organizer** of [GDG on Campus Málaga](https://gdg.community.dev/gdg-malaga/), where we bring tech events to anyone willing to learn.
 
 When I'm not coding, you'll find me on the handball court as a **referee**.
 
@@ -17,7 +17,7 @@ When I'm not coding, you'll find me on the handball court as a **referee**.
 
 ## Connect with me
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimeveleiro@icloud.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaimeveleiro)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaimeVeleiro)
 
